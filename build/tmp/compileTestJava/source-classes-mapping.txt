@@ -1,4 +1,10 @@
 GoogleTest.java
  GoogleTest
+pages/HomePage.java
+ pages.HomePage
 TradeMeTest.java
  TradeMeTest
+steps/TradeMeSteps.java
+ steps.TradeMeSteps
+pages/ResultsPage.java
+ pages.ResultsPage
