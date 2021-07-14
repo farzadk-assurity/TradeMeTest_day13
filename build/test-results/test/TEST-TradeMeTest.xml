@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TradeMeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-14T02:48:56" hostname="ASY-WIN10-85" time="15.139">
+  <properties/>
+  <testcase name="returnKey()" classname="TradeMeTest" time="15.139"/>
+  <system-out><![CDATA[26
+Price by negotiation
+1) This is First Home Gold
+2) Cardrona Gold
+3) Cardrona Gold
+4) Cardrona Gold
+5) Cardrona Gold
+6) Cardrona Gold
+7) Cardrona Gold
+8) Freehold gold in Whangarei
+9) Albany Retail Gold
+10) Porana Road Gold
+1) $1.00
+2) $1.00
+3) $38,199
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 36575
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Jul 14, 2021 2:48:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
